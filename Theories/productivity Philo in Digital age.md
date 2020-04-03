@@ -5,9 +5,7 @@ author:
 - TIAGO FORTE (原文)[@2018digital] 
 date: 2020-04-01
 abstract: |
-  A formatted abstract here.
-  May contain multiple paragraphs.
-key words: 
+   PARA 是帮助实践 个人知识管理 的一套方法
 ---
 
 ## 前言
@@ -172,7 +170,7 @@ GTD的五个阶段 十分 基本, 对 **工作流**
 
 ## 第四层: 个人信息管理 (PKM)
 
-![](img/7_DPP-Level_5_Just-in-Time_Project_Management.jpg) <!-- {width=400px} -->
+![](img/6_DPP-Level_4_Personal_Knowledge_Management.jpg) <!-- {width=400px} -->
 
 这一层包括:
 
@@ -206,7 +204,7 @@ Case studies:
 
 ## 第五层: 项目管理
 
-![](img/6_DPP-Level_4_Personal_Knowledge_Management.jpg) <!-- {width=400px} -->
+![](img/7_DPP-Level_5_Just-in-Time_Project_Management.jpg) <!-- {width=400px} -->
 
 作为工作中的专业人员，我们没有时间像在学校里一样，在前期消耗大量的知识，然后为了考试而回味。职业教育必须与日常工作同时进行。我们必须在飞机起飞的过程中打造飞机（并学会驾驶它）。
 
